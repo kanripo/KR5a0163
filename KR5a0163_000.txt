@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:39:22.164326
+# -*- mode: mandoku-view -*-
 #+TITLE: 易象圖說外篇
-#+PROPERTY: DZID  DZ0162
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—322 六卷 洞真部靈圖類
+#+DATE: 2015-08-28 23:39:23
+#+PROPERTY:  LASTPB <PB KR5a0163_SJB_003-030250c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5a0163_HFL_003-020b>¶¶¶¶¶¶¶¶¶¶¶
+
