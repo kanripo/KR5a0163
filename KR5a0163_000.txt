@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:39:22.164326
-#+TITLE: 易象圖說外篇
-#+PROPERTY: DZID  DZ0162
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—322 六卷 洞真部靈圖類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
